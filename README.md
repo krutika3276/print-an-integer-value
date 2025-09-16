@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 int main() {
-    int num=42;
-    printf("integer: %d\n", num);
+    // Write C code here
+    int num = 42;
+    printf("integer: %d\n",num);
 
     return 0;
 }
